@@ -50,20 +50,22 @@ a{
 
 body{
     background-color: #252525;
-    font-size: 2.5vw;
 }
 
 h2{
-    margin-top: 50px;
+    color: #fff;
+    font-size: 6vw;
+    margin-top: 20%;
 }
 
 button{
     height: max-content;
     width: 50%;
-    font-size:1.8vw;
+    font-size:5vw;
     margin-top: 2%;
     border-radius: 7px;
     transition: all .5s;
+    color: #fff;
 
     &:hover{
         transform: translateY(5px);

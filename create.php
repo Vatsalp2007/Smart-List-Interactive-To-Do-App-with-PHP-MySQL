@@ -13,7 +13,7 @@
         <form action="insert.php" enctype="multipart/form-data" method="post">
 
             <input type="text" name="task" required id="task" placeholder="ADD Your Task"><br>
-            <input type="date" name="date" id="date">
+            <input type="date" name="date" id="date" class="data">
             
             <button type="submit" name="Submit">ADD Task</button>
 
